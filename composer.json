@@ -1,0 +1,21 @@
+{
+    "name": "liumapp/yii2-gentelella",
+    "description": "yii2 assets for gentelella",
+    "keywords": ["yii2", "assets" , "gentelella"],
+    "homepage": "http://www.liumapp.com/",
+    "type": "project",
+    "license": "MIT",
+    "repositories": [
+    {
+      "name": "puikinsh/gentelella",
+      "type": "git",
+      "url": "https://github.com/puikinsh/gentelella.git"
+    },
+    ],
+    "require": {
+        "puikinsh/gentelella": "1.4.0",
+        "yiisoft/yii2": "2.0.10",
+        "yiisoft/yii2-bootstrap": "2.0.6",
+        "yiisoft/yii2-swiftmailer": "2.0.6"
+    }
+}
