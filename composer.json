@@ -6,11 +6,11 @@
     "type": "project",
     "license": "MIT",
     "repositories": [
-    {
-      "name": "puikinsh/gentelella",
-      "type": "git",
-      "url": "https://github.com/puikinsh/gentelella.git"
-    },
+        {
+          "name": "puikinsh/gentelella",
+          "type": "git",
+          "url": "https://github.com/puikinsh/gentelella.git"
+        }
     ],
     "require": {
         "puikinsh/gentelella": "1.4.0",
